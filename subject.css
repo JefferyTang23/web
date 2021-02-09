@@ -1,20 +1,15 @@
 body {
-  background-color: blue
+  background-color: blue; color: yellow;
 }
 
 h1 {
-  color: yellow;
-  font-size: x-large;
-  font-family: fantasy;
+  font-size: x-large; font-family: fantasy;
 }
 
 h2 {
-  color: yellow;
-  font-size: large;
-  font-family: fantasy;
+  font-size: large; font-family: fantasy;
 }
 
 p {
-  color: yellow;
-  font-size: medium;
+ font-size: medium;
 }
