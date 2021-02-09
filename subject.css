@@ -1,3 +1,15 @@
 body {
-  color: yellow;
+   color: yellow;background-color: blue;
+}
+
+h1 {
+  font-size: x-large;font-family: fantasy;
+}
+
+h2 {
+  font-size: large;font-family: fantasy;
+}
+
+p {
+  font-size: medium;
 }
