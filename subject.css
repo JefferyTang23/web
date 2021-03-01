@@ -40,6 +40,6 @@ li a:hover {
   background-color: black;
 }
 
-li a.active {
-  background-color: black;
+.currentpage {
+	background-color: purple;
 }
