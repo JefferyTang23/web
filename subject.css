@@ -40,6 +40,6 @@ li a:hover {
   background-color: black;
 }
 
-.active {
+li a.active {
   background-color: black;
 }
